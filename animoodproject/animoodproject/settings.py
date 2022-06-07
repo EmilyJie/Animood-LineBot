@@ -27,7 +27,7 @@ LINE_CHANNEL_SECRET = 'a7bcc2a753a60518f726c036aeda5d1b'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'd299-111-249-136-231.ngrok.io'
+    '995a-2401-e180-8845-8f8f-65d4-89b4-aabf-a659.ngrok.io'
 ]
 
 
